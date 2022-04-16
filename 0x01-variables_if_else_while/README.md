@@ -1,0 +1,1 @@
+This directory contains projects on loops, conditionals and variables in c.
